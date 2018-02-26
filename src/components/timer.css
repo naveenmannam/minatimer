@@ -1,0 +1,12 @@
+.timer {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 3px;
+  box-shadow: 2px 2px #888;
+  background-color: ivory;
+}
+
+.timicons {
+  cursor: pointer;
+}
